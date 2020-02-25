@@ -1,0 +1,11 @@
+**/data
+*.dat
+*.mov
+*.avi
+*.mp4
+*.mat
+*.tar*
+./probs/tburn/data/tburn__plt_file_dense_output_0000_0099.tar.gz
+./probs/cylinder/data/CYLINDER_ALL.mat
+./probs/tburn/data/tburn__plt_file_dense_output_0000_0099.tar.gz
+./probs/cylinder/data/CYLINDER_ALL.mat

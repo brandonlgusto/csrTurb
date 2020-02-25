@@ -1,0 +1,5 @@
+1. Put together informative slideshow
+2. Make plot of error norm as function of modes kept (starting from largest
+amplitude)
+3. Take a look into some periodic turbulence in 2D
+4. Put labels on amplitude vs frequency
